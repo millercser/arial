@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_-Axw0QJoEem_ROqoYP80GQ" label="arial" description="arial" language="java" technicalLabel="ARIAL" creationDate="2018-12-18T01:24:35.000+0800" author="_-Axw0gJoEem_ROqoYP80GQ" productVersion="Talend Data Services Platform-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/millercser/arial.git&quot;,&quot;login&quot;:&quot;millercser&quot;,&quot;passwd&quot;:&quot;Qi7G5Jw+Hw5EHraYWkNVEw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_-Axw0QJoEem_ROqoYP80GQ" label="arial" description="arial" language="java" technicalLabel="ARIAL" creationDate="2018-12-18T01:24:35.000+0800" author="_-Axw0gJoEem_ROqoYP80GQ" productVersion="Talend Data Services Platform-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/millercser/arial.git&quot;,&quot;login&quot;:&quot;millercser&quot;,&quot;passwd&quot;:&quot;Qi7G5Jw+Hw5EHraYWkNVEw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="__h4XMAJoEem_ROqoYP80GQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_-Axw0gJoEem_ROqoYP80GQ" login="wang.peng@hpe.com" firstName="security" lastName="security" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_PGacEAJpEem_ROqoYP80GQ" login="test@hpe.com" firstName="security" lastName="security" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
