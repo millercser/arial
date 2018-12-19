@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_qWrKYAM8EembWuMzJFmDhw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
@@ -64,5 +68,9 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
+  }, {
+    "id" : "_qWrKYAM8EembWuMzJFmDhw - test_tbl",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
